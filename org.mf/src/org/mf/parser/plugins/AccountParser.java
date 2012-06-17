@@ -1,12 +1,9 @@
 package org.mf.parser.plugins;
 
-import java.util.Set;
-
 import org.mf.model.Account;
 import org.mf.model.Category;
 import org.mf.model.IAccountsGetter;
 import org.mf.model.Transaction;
-import org.mf.model.sqlite.AccountsDataSource;
 import org.mf.parser.ParserPlugin;
 
 public class AccountParser extends ParserPlugin{
