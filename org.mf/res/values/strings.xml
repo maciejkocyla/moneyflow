@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, mfActivity!</string>
+    <string name="app_name">Org.mf</string>
+    <string name="planet_prompt">Choose a Planet</string>
+	<string name="select">Please select a planet:</string>
+	
+</resources>
